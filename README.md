@@ -6,7 +6,7 @@ Go to https://data.iowa.gov/Economy/Iowa-Liquor-Sales/m3tr-qhgy and download the
 
 ## Setup iowa-liquor mapping in Kibana
 
-Add a mappings to the iowa-liquor index for just the one field that can’t be autodetected:
+Add a mappings to the iowa-liquor index for just the one field that can’t be autodetected by entering the following in the developer console in Kibana:
 
 ```
 PUT iowa-liquor
