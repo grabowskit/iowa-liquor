@@ -1,5 +1,5 @@
 # iowa-liquor
-Iowa liquor data set configuration files for importing into Elasticsearch
+Iowa liquor data set configuration files for importing into Elasticsearch.  Based on webinar from Elastic on Logstash CSV import - https://www.elastic.co/webinars/csv-logstash-ingestion
 
 ## Download Iowa Liquor data
 Go to https://data.iowa.gov/Economy/Iowa-Liquor-Sales/m3tr-qhgy and download the CSV file for Iowa Liquor sales.
