@@ -7,7 +7,8 @@ Go to https://data.iowa.gov/Economy/Iowa-Liquor-Sales/m3tr-qhgy and download the
 ## Setup iowa-liquor mapping in Kibana
 
 Add a mappings to the iowa-liquor index for just the one field that can’t be autodetected:
-'''
+
+```
 PUT iowa-liquor
 {
   "settings": {
@@ -25,7 +26,7 @@ PUT iowa-liquor
     }
   }
 }
-'''
+```
 
 ## Use Logstash to import into Elasticsearch
 
