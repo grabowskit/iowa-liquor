@@ -42,4 +42,4 @@ Go to Kibana, under Management create an index pattern called 'iowa-liquor'
 
 ## Import Kibana visualizations
 
-In Kibana, Managmenet, Saved Objects, Import iowa.json file
+In Kibana, Managmenet, Saved Objects, Import iowa-dash.json file
